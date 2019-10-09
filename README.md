@@ -1,2 +1,2 @@
 # c-programs
-all c programs
+different c prg
