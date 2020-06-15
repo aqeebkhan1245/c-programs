@@ -21,4 +21,4 @@ printf("*");
 printf("\n");
 }
 getch();
-return 0;
+return 1;
